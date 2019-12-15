@@ -1,0 +1,7 @@
+{
+    "name": "develop/panel",
+    "require": {},
+    "autoload": {
+        "classmap": ["app/class","app/database","app/helpers"]
+    }
+}
